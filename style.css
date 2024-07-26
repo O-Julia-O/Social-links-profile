@@ -48,20 +48,21 @@ body {
 
 .card .info img {
   border-radius: 50%;
-  height: 80px;
-  width: 80px;
+  height: 88px;
+  width: 88px;
   margin: 10px auto;
 }
 
 .card h1 {
   font-size: 24px;
   font-weight: bold;
+  margin-bottom: 4px;
 }
 
 .card .description {
   font-size: 14px;
-  padding-top: 10px;
-  padding-bottom: 30px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .card .location-text {
@@ -74,7 +75,7 @@ ul {
   display: flex;
   flex-direction: column;
 
-  gap: 14px;
+  gap: 16px;
 }
 
 ul li {
