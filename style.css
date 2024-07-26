@@ -11,5 +11,20 @@
 }
 
 * {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
     font-family: var(--font);
+    color: var(--white-color);
+}
+
+body {
+    background-color: var(--background-color);
+    height: 100vh;
+}
+
+.card {
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: center;
 }
