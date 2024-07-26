@@ -30,7 +30,7 @@ body {
 
 .card {
   margin: 0 auto;
-  max-width: 300px;
+  max-width: 350px;
   text-align: center;
   background-color: var(--card-color);
   padding: 20px;
@@ -70,7 +70,7 @@ ul {
   display: flex;
   flex-direction: column;
 
-  gap: 10px;
+  gap: 14px;
 }
 
 ul li {
