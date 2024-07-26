@@ -43,7 +43,7 @@ body {
 .card .info {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 14px;
 }
 
 .card .info img {
